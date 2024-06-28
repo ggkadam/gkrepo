@@ -15,4 +15,3 @@ resource "aws_instance" "myec2" {
    "ENV" = "Prod"
  }
  }
-}
